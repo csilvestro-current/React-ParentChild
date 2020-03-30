@@ -1,0 +1,12 @@
+/*--This CSS Page is to style only the index.js page --*/
+/* Root Styles */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 62.5%;
+}
+
+
+/* Media Queries */
